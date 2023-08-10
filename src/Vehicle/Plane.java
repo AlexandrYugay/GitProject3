@@ -1,7 +1,9 @@
 package Vehicle;
 
-public class Plain {
+public class Plane {
     public static void main(String[] args) {
-        System.out.println("Plain flies");
+        System.out.println("Plane flies");
     }
+
+
 }
